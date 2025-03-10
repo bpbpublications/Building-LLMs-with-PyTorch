@@ -1,2 +1,2 @@
-# PyTorch From Scratch to Building LLMs
- PyTorch: From Scratch to Building LLMs, by BPB Publications
+# Building LLMs with PyTorch
+ Building LLMs with PyTorch, by BPB Publications
